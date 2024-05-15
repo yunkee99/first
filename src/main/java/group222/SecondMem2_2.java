@@ -7,5 +7,6 @@ public class SecondMem2_2 {
         System.out.println("2组收到，规范化提交开始");
         System.out.println("这是2组规范后的首次提交");
         System.out.println("2-2单独执行了2组第2次提交");
+        System.out.println("2组第四次提交，小组成员合作完成");
     }
 }
