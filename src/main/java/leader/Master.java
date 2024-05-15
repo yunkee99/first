@@ -10,5 +10,6 @@ public class Master {
         System.out.println("merge change2 into master");
         System.out.println("master的2组并没有更新");
         System.out.println("刚刚2组更新弹窗选择选错了，那个意思是忽略，操，");
+        System.out.println("Rebase change2_1 on master");
     }
 }
