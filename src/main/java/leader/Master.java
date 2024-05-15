@@ -19,5 +19,9 @@ public class Master {
         System.out.println("获取二组第四次更新" +
                 "merge change2 into master");
         System.out.println("更新成功，不仅第四次，2-3次更新也同步了");
+        System.out.println("获取一组的第二次更新" +
+                "merge group1 into master");
+        System.out.println("目前还未同步一组的首次更新");
+        System.out.println("成功更新了一组的两次提交");
     }
 }
